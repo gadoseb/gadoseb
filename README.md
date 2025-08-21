@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sebastiano Gadolini (aka @gadoseb)
+# Ciao, I'm Sebastiano Gadolini (aka @gadoseb)
 
 I'm a chemist and Application Scientist at **Dotmatics**, with a passion for **Machine Learning**, **Artificial Intelligence**, and **Data Engineering**. I specialise in applying data science and engineering techniques to scientific research and enterprise applications, helping scientists and organisations make smarter, data-driven decisions.
 
