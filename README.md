@@ -47,7 +47,7 @@ Some highlighted repositories:
 
 Feel free to explore my repositories, contribute to projects, or reach out for collaboration!
 
-- [LinkedIn](https://www.linkedin.com/in/sebastianogadolini/)
+- [LinkedIn](https://www.linkedin.com/in/sebastiano-gadolini-6300b115b/)
 
 ---
 
